@@ -202,7 +202,7 @@ export default function Home() {
 
             <div className="mt-10">
               <a
-                href="/Sumit_Dhiman_Resume.pdf"
+                href="/Sumit_Dhiman_cv.pdf"
                 download
                 className="px-6 py-3 bg-white text-black rounded-lg hover:bg-gray-200 transition"
               >
