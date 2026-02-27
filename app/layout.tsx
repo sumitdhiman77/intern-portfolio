@@ -12,9 +12,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Sumit Dhiman | Full Stack Developer",
+  title: "Sumit Dhiman | MERN Stack Developer",
   description:
-    "Full Stack Developer skilled in MERN stack and Next.js, seeking internship opportunities.",
+    "Portfolio of Sumit Dhiman, MERN Stack Developer specializing in Next.js, MongoDB, authentication systems, and scalable web applications.",
+  keywords: [
+    "Sumit Dhiman",
+    "MERN Developer",
+    "Next.js Developer",
+    "Full Stack Developer",
+    "Internship Portfolio",
+  ],
+  authors: [{ name: "Sumit Dhiman" }],
 };
 
 export default function RootLayout({
