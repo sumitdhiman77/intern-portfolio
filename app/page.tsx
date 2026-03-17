@@ -91,7 +91,7 @@ export default function Home() {
                 title: "GetMeAChai — Fundraising Platform",
                 desc: "Crowdfunding platform with authentication providers and Razorpay payment integration.",
                 tech: "Next.js · MongoDB · Razorpay · NextAuth.js",
-                live: "https://getmeachai-iota.vercel.app",
+                live: "https://gift-me-a-chai.vercel.app",
                 github: "https://github.com/sumitdhiman77/GiftMeAChai",
               },
               {
