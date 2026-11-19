@@ -84,7 +84,7 @@ export default function Home() {
                 desc: "Secure full-stack job platform supporting authenticated uploads and role based authorization job seekers and employers.",
                 tech: "React.js, TypeScript, Node.js, Express 5, MongoDB, Mongoose, JWT, Zod, Cloudinary",
                 live: "mern-job-world.vercel.app",
-                github: "https://github.com/sumitdhiman77/yourvideoworld",
+                github: "https://github.com/sumitdhiman77/mern-job-world",
               },
               {
                 title: "YourVideoWorld — Cloud Video Streaming Platform",
