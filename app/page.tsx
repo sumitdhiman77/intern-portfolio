@@ -79,7 +79,13 @@ export default function Home() {
           </h2>
 
           <div className="grid md:grid-cols-2 gap-10">
-            {[
+            {[ {
+                title: "MERN Job Portal SaaS – Job Recruitment Platform",
+                desc: "Secure full-stack job platform supporting authenticated uploads and role based authorization job seekers and employers.",
+                tech: "React.js, TypeScript, Node.js, Express 5, MongoDB, Mongoose, JWT, Zod, Cloudinary",
+                live: "mern-job-world.vercel.app",
+                github: "https://github.com/sumitdhiman77/yourvideoworld",
+              },
               {
                 title: "YourVideoWorld — Cloud Video Streaming Platform",
                 desc: "Secure full-stack video platform supporting authenticated uploads and adaptive HLS streaming.",
