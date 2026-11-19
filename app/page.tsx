@@ -83,14 +83,14 @@ export default function Home() {
                 title: "MERN Job Portal SaaS – Job Recruitment Platform",
                 desc: "Secure full-stack job platform supporting authenticated uploads and role based authorization job seekers and employers.",
                 tech: "React.js, TypeScript, Node.js, Express 5, MongoDB, Mongoose, JWT, Zod, Cloudinary",
-                live: "mern-job-world.vercel.app",
+                live: "https://mern-job-world.vercel.app",
                 github: "https://github.com/sumitdhiman77/mern-job-world",
               },
               {
                 title: "YourVideoWorld — Cloud Video Streaming Platform",
                 desc: "Secure full-stack video platform supporting authenticated uploads and adaptive HLS streaming.",
                 tech: "Next.js · TypeScript · MongoDB · Cloudinary · NextAuth.js · HLS.js",
-                live: "https://yourvideoworld.vercel.app/",
+                live: "https://yourvideoworld.vercel.app",
                 github: "https://github.com/sumitdhiman77/yourvideoworld",
               },
               {
